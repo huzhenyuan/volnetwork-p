@@ -1,0 +1,7 @@
+/target
+/.cquery_cached_index
+*.o
+/log
+/.vscode
+**/*.exe
+**/*.bat
